@@ -1,0 +1,5 @@
+curl.exe -s https://api.github.com/repos/Aslesha584/mcino-Introduction-to-Git-and-GitHub
+
+fork: true
+full_name: Aslesha584/mcino-Introduction-to-Git-and-GitHub
+parent: ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
